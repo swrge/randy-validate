@@ -9,7 +9,7 @@ keywords = ["discord", "discord-api", "twilight"]
 license.workspace = true
 name = "randy-validate"
 publish = true
-repository.workspace = true
+repository = "https://github.com/swrge/randy-validate"
 rust-version.workspace = true
 version = "0.1.0"
 
